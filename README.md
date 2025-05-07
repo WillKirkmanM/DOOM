@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">DOOM</h1>
 
+<p align="center">
+  <img width="478" alt="image" src="https://github.com/user-attachments/assets/0381c746-dd5e-4ee5-aa7a-f6cda5c1be14" />
+</p>
+
 <p align="center">This project demonstrates the core rendering technique used in early pseudo-3D games like Doom and Wolfenstein 3D.</p>
 
 ## Features
